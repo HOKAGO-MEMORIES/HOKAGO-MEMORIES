@@ -1,3 +1,8 @@
+<h1>KIM YONG HWI</h1>
+
+![Yong hwi's GitHub stats](https://github-readme-stats.vercel.app/api?username=HOKAGO-MEMORIES&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HOKAGO-MEMORIES&layout=compact&theme=dracula)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=line123)](https://solved.ac/line123/)
 
 <!--
