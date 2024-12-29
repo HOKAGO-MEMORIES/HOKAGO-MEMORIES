@@ -1,8 +1,8 @@
 <h1>KIM YONG HWI</h1>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=HOKAGO-MEMORIES&show_icons=true&theme=dracula" />
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOKAGO-MEMORIES&layout=compact&theme=dracula" />
+  <img height=180 src="https://github-readme-stats.vercel.app/api?username=HOKAGO-MEMORIES&show_icons=true&theme=dracula" />
+  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOKAGO-MEMORIES&layout=compact&theme=dracula" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
