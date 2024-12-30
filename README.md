@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=180 src="https://github-readme-stats.vercel.app/api?username=HOKAGO-MEMORIES&show_icons=true&theme=dracula" />
-  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOKAGO-MEMORIES&hide=VBA&layout=compact&theme=dracula" />
+  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOKAGO-MEMORIES&langs_count=6&layout=compact&theme=dracula" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
