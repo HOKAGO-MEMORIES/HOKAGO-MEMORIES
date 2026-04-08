@@ -1,26 +1,32 @@
-<!--
-**HOKAGO-MEMORIES/HOKAGO-MEMORIES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=39C5BB&center=true&vCenter=true&width=500&lines=HOKAGO+MEMORIES;Steady+Algorithm+Solver;Backend+Developer" alt="Typing SVG" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋‍♂️ About Me
+- 🔭 I’m currently studying **Backend Development & Algorithms**
+- 🌱 I’m currently learning **Java, Spring Boot, and Next.js**
 
+<br>
 
-<h1>KIM YONG HWI</h1>
+## 📈 Algorithm Studies
+<div align="center">
+  <a href="https://solved.ac/line123">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=line123" alt="Solved.ac Profile" />
+    <img src="http://mazandi.herokuapp.com/api?handle=line123&theme=dark" alt="Mazandi Profile" />
+  </a>
+</div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 src="https://github-readme-stats.vercel.app/api?username=HOKAGO-MEMORIES&show_icons=true&theme=dracula" />
-  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOKAGO-MEMORIES&langs_count=6&layout=compact&theme=dracula" />
-</a>
+<br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=line123"/>
-</a>
+## 🕹️ GitHub Contributions
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HOKAGO-MEMORIES/HOKAGO-MEMORIES/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HOKAGO-MEMORIES/HOKAGO-MEMORIES/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph animation" src="https://raw.githubusercontent.com/HOKAGO-MEMORIES/HOKAGO-MEMORIES/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
