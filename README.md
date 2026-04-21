@@ -16,7 +16,7 @@
 <div align="center">
   <a href="https://solved.ac/line123">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=line123" alt="Solved.ac Profile" />
-    <img src="http://mazandi.herokuapp.com/api?handle=line123&theme=dark" alt="Mazandi Profile" />
+   <!-- <img src="http://mazandi.herokuapp.com/api?handle=line123&theme=dark" alt="Mazandi Profile" /> -->
   </a>
 </div>
 
